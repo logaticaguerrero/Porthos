@@ -1,0 +1,1077 @@
+.footer-child {
+  position: absolute;
+  top: 205px;
+  left: 0;
+  background-color: var(--color-steelblue-200);
+  width: 1280px;
+  height: 50px;
+}
+.polticas-de-privacidad {
+  position: absolute;
+  top: 221px;
+  left: 35px;
+}
+.footer-item,
+.porthos-tech,
+.trminos-de-uso {
+  position: absolute;
+  top: 221px;
+  left: 226px;
+}
+.footer-item,
+.porthos-tech {
+  left: 1047px;
+}
+.footer-item {
+  top: 0;
+  left: 0;
+  background-color: var(--color-steelblue-100);
+  width: 1280px;
+  height: 205px;
+}
+.a,
+.infoporthoscomar {
+  position: absolute;
+  top: 107px;
+  left: 964px;
+  font-size: var(--font-size-base);
+  text-decoration: underline;
+  font-weight: 600;
+  color: inherit;
+  text-align: left;
+  display: inline-block;
+  width: 200px;
+  height: 23px;
+}
+.a {
+  top: 143px;
+  width: 163px;
+}
+.icon-facebook,
+.icon-linkedin,
+.icon-skype,
+.icon-telegram,
+.icon-twitter {
+  position: absolute;
+  height: 14.7%;
+  width: 2.93%;
+  top: 13%;
+  right: 12.68%;
+  bottom: 72.29%;
+  left: 84.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-facebook,
+.icon-skype,
+.icon-telegram,
+.icon-twitter {
+  height: 11.95%;
+  top: 14.31%;
+  right: 17.22%;
+  bottom: 73.74%;
+  left: 79.85%;
+}
+.icon-facebook,
+.icon-skype,
+.icon-telegram {
+  height: 14.61%;
+  top: 13%;
+  right: 8.13%;
+  bottom: 72.38%;
+  left: 88.94%;
+}
+.icon-skype,
+.icon-telegram {
+  height: 12.34%;
+  top: 14.15%;
+  right: 21.76%;
+  bottom: 73.51%;
+  left: 75.31%;
+}
+.icon-skype {
+  height: 14.74%;
+  top: 12.84%;
+  right: 3.59%;
+  bottom: 72.42%;
+  left: 93.48%;
+}
+.porthos-blanco-logotipo-pn {
+  position: absolute;
+  top: 16px;
+  left: 0;
+  width: 243px;
+  height: 126px;
+  object-fit: cover;
+}
+.footer {
+  position: absolute;
+  top: 5780px;
+  left: 0;
+  width: 1280px;
+  height: 255px;
+  text-align: center;
+  font-size: var(--font-size-xs);
+  color: var(--color-whitesmoke);
+}
+.main-office1 {
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  font-family: var(--font-montserrat);
+}
+.main-office {
+  margin: 0;
+}
+.porthos-palermo1 {
+  font-weight: 600;
+  font-family: var(--font-montserrat);
+}
+.span {
+  font-weight: 500;
+}
+.infoporthoscomar4 {
+  text-decoration: underline;
+}
+.infoporthoscomar2 {
+  color: inherit;
+}
+.main-office-porthos-container {
+  position: absolute;
+  top: 1px;
+  left: 321px;
+  display: inline-block;
+  width: 265px;
+}
+.bahia-blanca-porthos-container,
+.nremberg-porthos-germany-container {
+  position: absolute;
+  top: 1px;
+  left: 651px;
+  display: inline-block;
+  width: 241px;
+}
+.nremberg-porthos-germany-container {
+  top: 0;
+  left: 896px;
+}
+.barcelona {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+}
+.prximamente {
+  margin: 0;
+  font-weight: 600;
+}
+.barcelona-prximamente {
+  position: absolute;
+  top: 199px;
+  left: 651px;
+  color: var(--color-steelblue-200);
+  display: inline-block;
+  width: 242px;
+}
+.language-icon,
+.main-sedes {
+  position: absolute;
+  top: 23px;
+  left: 0;
+  width: 231px;
+  height: 231px;
+}
+.main-sedes {
+  top: 5475px;
+  left: 64px;
+  width: 1137px;
+  height: 269px;
+  color: var(--font-inherit);
+}
+.get-in-touch-container {
+  position: absolute;
+  top: 150px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 636px;
+}
+.logo-icon {
+  position: relative;
+  width: 48px;
+  height: 46px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame,
+.frame2 {
+  position: absolute;
+}
+.frame2 {
+  top: calc(50% - 30px);
+  right: 12px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  text-align: center;
+  font-size: 8px;
+  color: #a6a6a6;
+  font-family: var(--font-roboto);
+}
+.frame {
+  top: 672px;
+  left: 21px;
+  border-radius: 2px;
+  background-color: #fafafa;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  border: 1px solid #d6d6d6;
+  box-sizing: border-box;
+  width: 304px;
+  height: 76px;
+  color: var(--color-steelblue-200);
+}
+.choose-a-subject,
+.given-name,
+.last-name {
+  position: absolute;
+  top: 60px;
+  left: 29px;
+  color: var(--color-silver);
+  display: inline-block;
+  width: 327px;
+}
+.choose-a-subject,
+.last-name {
+  top: 354px;
+}
+.last-name {
+  top: 60px;
+  left: 421px;
+}
+.expand-more-icon {
+  position: absolute;
+  top: 354px;
+  left: 740px;
+  width: 24px;
+  height: 24px;
+}
+.boton-principal-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-steelblue-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.contact-us {
+  position: absolute;
+  height: 50%;
+  width: 100%;
+  top: 26%;
+  left: 0;
+  line-height: 40px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.boton-principal {
+  position: absolute;
+  top: 787px;
+  left: 22px;
+  width: 198px;
+  height: 50px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+}
+.formcontacto {
+  position: absolute;
+  top: 257px;
+  left: 169px;
+  width: 790px;
+  height: 861px;
+  font-size: var(--font-size-base);
+  color: var(--color-whitesmoke);
+}
+.we-do-it {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 557px);
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+}
+.porthos-isotipo-png-2 {
+  position: absolute;
+  top: 0;
+  left: 731px;
+  width: 383px;
+  height: 247px;
+  object-fit: cover;
+}
+.main-section-wedoit {
+  position: absolute;
+  top: 4130px;
+  left: 79px;
+  width: 1114px;
+  height: 1368px;
+  font-size: var(--font-size-xl);
+}
+.who-we-are {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 422.82px);
+  font-size: var(--font-size-45xl);
+  font-weight: 600;
+}
+.we-are-a {
+  position: absolute;
+  top: 117px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 736px;
+}
+.ing-javier-goi,
+.technology-director-co-container {
+  position: absolute;
+  top: 187.71px;
+  left: 73.38px;
+  font-weight: 600;
+  display: inline-block;
+  width: 188px;
+  height: 16px;
+}
+.technology-director-co-container {
+  top: 226.71px;
+  left: 83.38px;
+  font-size: var(--font-size-sm);
+  width: 167px;
+  height: 33px;
+}
+.group-child {
+  position: absolute;
+  top: 32px;
+  left: 95px;
+  border-radius: 50%;
+  width: 144px;
+  height: 142px;
+  object-fit: cover;
+}
+.tag-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 137.36px;
+  height: 137.36px;
+}
+.ing-javier-goi-parent {
+  position: absolute;
+  top: 261px;
+  left: 264px;
+  width: 261.38px;
+  height: 259.71px;
+  text-align: center;
+}
+.dr-javier-echaiz,
+.technology-director-co-container1 {
+  position: absolute;
+  top: 187.71px;
+  left: 70.64px;
+  font-weight: 600;
+  display: inline-block;
+  width: 187px;
+  height: 16px;
+}
+.technology-director-co-container1 {
+  top: 226.71px;
+  left: 80.64px;
+  font-size: var(--font-size-sm);
+  width: 167px;
+  height: 33px;
+}
+.group-item {
+  position: absolute;
+  top: 31.71px;
+  left: 92px;
+  border-radius: 50%;
+  width: 143px;
+  height: 142px;
+  object-fit: cover;
+}
+.dr-javier-echaiz-parent {
+  position: absolute;
+  top: 261px;
+  left: 588px;
+  width: 257.64px;
+  height: 259.71px;
+  text-align: center;
+}
+.main-section-who {
+  position: absolute;
+  top: 3513px;
+  left: calc(50% - 561px);
+  width: 845.64px;
+  height: 520.71px;
+  font-size: var(--font-size-base);
+}
+.why-we-do {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 557px);
+  font-weight: 600;
+}
+.team-1-icon {
+  position: absolute;
+  top: 190px;
+  left: 783px;
+  width: 331px;
+  height: 180px;
+  object-fit: cover;
+}
+.boton-principal1 {
+  position: absolute;
+  top: 408px;
+  left: 857px;
+  width: 198px;
+  height: 50px;
+  cursor: pointer;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-whitesmoke);
+}
+.we-believe-in {
+  text-indent: 2px;
+  margin-block-start: 0;
+  margin-block-end: 10px;
+}
+.we-prioritize-building {
+  text-indent: 2px;
+  margin: 0;
+}
+.great-pride-in-container,
+.we-believe-in-container {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 342px;
+  height: 341px;
+}
+.great-pride-in-container {
+  top: 0;
+  left: 386px;
+}
+.we-believe-in-the-transformati-parent {
+  position: absolute;
+  top: 117px;
+  left: 0;
+  width: 728px;
+  height: 343px;
+  font-size: var(--font-size-xl);
+}
+.main-section-why {
+  position: absolute;
+  top: 2960px;
+  left: calc(50% - 559px);
+  width: 1114px;
+  height: 460px;
+  font-size: var(--font-size-45xl);
+}
+.how-we-do {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 562px);
+  font-weight: 600;
+}
+.with-over-20-container {
+  position: absolute;
+  top: 117px;
+  left: 512px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 612px;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-steelblue-200);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px dashed var(--color-whitesmoke);
+  box-sizing: border-box;
+  width: 322.45px;
+  height: 381px;
+}
+.academic-excellence-deep-container,
+.our-recipe {
+  position: absolute;
+  top: 61.57px;
+  left: 74.69px;
+  line-height: 37px;
+  display: inline-block;
+  font-weight: 600;
+  width: 218.02px;
+  height: 315.93px;
+}
+.our-recipe {
+  top: 20.57px;
+  left: 48.55px;
+  font-size: var(--font-size-5xl);
+  line-height: 40px;
+  height: 35.73px;
+}
+.check-icon,
+.check-icon1,
+.check-icon2,
+.check-icon3 {
+  position: absolute;
+  top: 69.62px;
+  left: 43.97px;
+  width: 27.48px;
+  height: 27.48px;
+}
+.check-icon1,
+.check-icon2,
+.check-icon3 {
+  top: 179.55px;
+}
+.check-icon2,
+.check-icon3 {
+  top: 289.47px;
+}
+.check-icon3 {
+  top: 106.26px;
+}
+.check-icon4,
+.check-icon5,
+.check-icon6,
+.check-icon7,
+.group-container {
+  position: absolute;
+  top: 216.19px;
+  left: 43.97px;
+  width: 27.48px;
+  height: 27.48px;
+}
+.check-icon5,
+.check-icon6,
+.check-icon7,
+.group-container {
+  top: 326.12px;
+}
+.check-icon6,
+.check-icon7,
+.group-container {
+  top: 142.91px;
+}
+.check-icon7,
+.group-container {
+  top: 252.83px;
+}
+.group-container {
+  top: 0;
+  left: 0;
+  width: 322.45px;
+  height: 381px;
+}
+.checklist-amico-1-icon {
+  position: absolute;
+  top: 184px;
+  left: 170px;
+  width: 250px;
+  height: 248.87px;
+  overflow: hidden;
+}
+.group-parent {
+  position: absolute;
+  top: 117px;
+  left: 46px;
+  width: 420px;
+  height: 432px;
+  font-size: var(--font-size-base);
+  color: var(--color-whitesmoke);
+}
+.main-section-how,
+.what-we-do {
+  position: absolute;
+  font-size: var(--font-size-45xl);
+}
+.main-section-how {
+  top: 2289px;
+  left: calc(50% - 569px);
+  width: 1124px;
+  height: 549px;
+}
+.what-we-do {
+  top: 0;
+  left: calc(50% - 561.8px);
+  font-weight: 600;
+}
+.cloud-computing {
+  margin-bottom: 0;
+}
+.cloud-computing-it-security-te {
+  margin: 0;
+  padding-left: var(--padding-8xl);
+}
+.agile-methodologies-ci-container,
+.cloud-computing-it-container {
+  position: absolute;
+  top: 121px;
+  left: 37px;
+  line-height: 40px;
+  font-weight: 600;
+  font-family: var(--font-inherit);
+  display: inline-block;
+  width: 286px;
+  height: 180px;
+}
+.agile-methodologies-ci-container {
+  left: 390px;
+}
+.aws-50-certified-con-mas-de-ci-icon {
+  position: absolute;
+  top: 362px;
+  left: 37px;
+  width: 314px;
+  height: 103px;
+  object-fit: cover;
+}
+.pcdg5zcbgvcvbinxfzshvtxdma-1-icon {
+  position: absolute;
+  top: 363px;
+  left: 382px;
+  width: 275px;
+  height: 119px;
+  object-fit: cover;
+}
+.freepik-floor-inject-16-icon {
+  position: absolute;
+  height: 35.85%;
+  width: 74.69%;
+  top: 64.15%;
+  right: 13.08%;
+  bottom: 0;
+  left: 12.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-div,
+.group-child1 {
+  position: absolute;
+  border-radius: 50%;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ellipse-div {
+  top: 79px;
+  left: 79px;
+  border: 1px solid var(--color-steelblue-100);
+  box-sizing: border-box;
+  width: 251px;
+  height: 251px;
+}
+.group-child1 {
+  top: 0;
+  left: 0;
+  background-color: var(--color-steelblue-100);
+  width: 157.13px;
+  height: 157.13px;
+}
+.security {
+  position: absolute;
+  top: 94.13px;
+  left: 38.31px;
+  font-weight: 600;
+  display: inline-block;
+  width: 79.86px;
+  height: 18.83px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.development,
+.ellipse-parent {
+  position: absolute;
+  top: 203.87px;
+  left: 0;
+  width: 157.13px;
+  height: 157.13px;
+}
+.development {
+  top: 94.13px;
+  left: 10.39px;
+  font-weight: 600;
+  display: inline-block;
+  width: 136.35px;
+  height: 18.83px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ellipse-group {
+  position: absolute;
+  top: 203.87px;
+  left: 243.48px;
+  width: 157.13px;
+  height: 157.13px;
+}
+.cloud-computing1 {
+  position: absolute;
+  top: 84px;
+  left: 27.04px;
+  font-weight: 600;
+  display: inline-block;
+  width: 101.94px;
+  height: 37.66px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.ellipse-container {
+  position: absolute;
+  top: 0;
+  left: 125.96px;
+  width: 157.13px;
+  height: 157.13px;
+}
+.freepik-gears-inject-18-icon,
+.freepik-shield-inject-3-icon {
+  position: absolute;
+  height: 12.44%;
+  width: 8.49%;
+  top: 52.86%;
+  right: 76.29%;
+  bottom: 34.7%;
+  left: 15.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.freepik-gears-inject-18-icon {
+  height: 9.83%;
+  width: 14.73%;
+  top: 53.07%;
+  right: 11.38%;
+  bottom: 37.09%;
+  left: 73.89%;
+}
+.freepik-cloud-inject-16-icon,
+.freepik-speech-bubble-inject-icon {
+  position: absolute;
+  height: 10.38%;
+  width: 12.58%;
+  top: 7.85%;
+  right: 42.49%;
+  bottom: 81.77%;
+  left: 44.93%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.freepik-speech-bubble-inject-icon {
+  height: 9.09%;
+  width: 6.69%;
+  top: 57.69%;
+  right: 14.18%;
+  bottom: 33.22%;
+  left: 79.13%;
+}
+.boton-principal2,
+.freepik-floor-inject-16-parent {
+  position: absolute;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-whitesmoke);
+}
+.freepik-floor-inject-16-parent {
+  height: 71.75%;
+  width: 35.65%;
+  top: 20.03%;
+  right: 0;
+  bottom: 8.22%;
+  left: 64.35%;
+}
+.boton-principal2 {
+  top: 554px;
+  left: 36px;
+  width: 198px;
+  height: 50px;
+  cursor: pointer;
+}
+.main-section-what {
+  position: absolute;
+  top: 1591px;
+  left: calc(50% - 569px);
+  width: 1123.61px;
+  height: 604px;
+  font-size: var(--font-inherit);
+}
+.porthos-isologotipo-png-sin {
+  position: absolute;
+  top: 0;
+  left: 760px;
+  width: 309px;
+  height: 309px;
+  object-fit: cover;
+}
+.highlight-2 {
+  position: absolute;
+  top: 368px;
+  left: 175px;
+  border-radius: var(--br-xl);
+  background-color: var(--color-steelblue-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 716px;
+  height: 214px;
+}
+.copy,
+.united-we-stand {
+  position: absolute;
+  top: 59px;
+  left: 0;
+  font-weight: 500;
+  display: inline-block;
+  width: 704px;
+}
+.united-we-stand {
+  top: 417px;
+  left: 317px;
+  font-size: var(--font-size-5xl);
+  font-weight: 600;
+  color: var(--color-whitesmoke);
+  text-align: center;
+  width: 432px;
+}
+.main-intro {
+  position: absolute;
+  top: 890px;
+  left: 107px;
+  width: 1065px;
+  height: 582px;
+  font-size: var(--font-size-xl);
+}
+.thats-it-no,
+.we-make-your-container {
+  position: absolute;
+  left: 685px;
+  color: var(--color-steelblue-200);
+  text-align: left;
+}
+.thats-it-no {
+  top: 281px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 327px;
+}
+.we-make-your-container {
+  top: 118px;
+  font-size: 36px;
+  font-weight: 600;
+}
+.highlights-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-steelblue-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 1280px;
+  height: 177px;
+}
+.your-projects-on-container {
+  position: absolute;
+  top: 93px;
+  left: 0;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+  width: 213px;
+  height: 56px;
+}
+.workspace-premium-icon {
+  position: absolute;
+  top: 0;
+  left: 69px;
+  width: 76.39px;
+  height: 76.39px;
+}
+.never-going-down-container,
+.your-projects-on-the-cutting-e-parent {
+  position: absolute;
+  top: 8px;
+  left: 107px;
+  width: 213px;
+  height: 149px;
+}
+.never-going-down-container {
+  top: 93.03px;
+  left: 0;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+  height: 37px;
+}
+.settings-icon1 {
+  position: absolute;
+  top: 0;
+  left: 68.35px;
+  width: 76.39px;
+  height: 76.39px;
+}
+.never-going-down-systems-parent,
+.secure-and-fast-container {
+  position: absolute;
+  top: 8px;
+  left: 391px;
+  width: 213px;
+  height: 130.03px;
+}
+.secure-and-fast-container {
+  top: 93.03px;
+  left: 0;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+  height: 55px;
+}
+.rocket-launch-icon {
+  position: absolute;
+  top: 0;
+  left: 69.01px;
+  width: 76.39px;
+  height: 76.39px;
+}
+.secure-and-fast-architectures-parent {
+  position: absolute;
+  top: 8px;
+  left: 675px;
+  width: 213px;
+  height: 148.03px;
+}
+.years-of-experience-container {
+  position: absolute;
+  top: 93px;
+  left: 0;
+  text-decoration: underline;
+  font-weight: 600;
+  display: inline-block;
+  width: 213px;
+  height: 37px;
+}
+.highlights,
+.years-of-experience-parent {
+  position: absolute;
+  top: 8px;
+  left: 959px;
+  width: 213px;
+  height: 130px;
+}
+.highlights {
+  top: 552px;
+  left: 0;
+  width: 1280px;
+  height: 177px;
+  font-size: var(--font-size-sm);
+}
+.title-icon {
+  position: absolute;
+  top: 0;
+  left: 93px;
+  width: 505px;
+  height: 505px;
+  object-fit: cover;
+}
+.contact-us3 {
+  position: absolute;
+  top: 388px;
+  left: 700px;
+  line-height: 40px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 168px;
+}
+.boton-principal3 {
+  position: absolute;
+  top: 383px;
+  left: 685px;
+  width: 198px;
+  height: 50px;
+  cursor: pointer;
+}
+.main-portada,
+.navbar-child {
+  position: absolute;
+  left: 0;
+  width: 1280px;
+}
+.main-portada {
+  top: 103px;
+  height: 729px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-whitesmoke);
+}
+.navbar-child {
+  top: 0;
+  background: linear-gradient(90deg, rgba(232, 239, 255, 0), #394f80);
+  height: 69px;
+}
+.contact-us5 {
+  position: absolute;
+  top: 26px;
+  left: 1049px;
+  font-weight: 500;
+  cursor: pointer;
+}
+.icon-whatsapp,
+.mail-icon {
+  position: absolute;
+  top: 22px;
+  left: 1158px;
+  width: 24px;
+  height: 24px;
+}
+.icon-whatsapp {
+  height: 34.78%;
+  width: 1.88%;
+  top: 31.88%;
+  right: 2.73%;
+  bottom: 33.33%;
+  left: 95.39%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.navbar,
+.porthos-isotipo-png-1 {
+  position: absolute;
+  top: 0;
+  height: 69px;
+}
+.porthos-isotipo-png-1 {
+  left: 31px;
+  width: 69px;
+  object-fit: cover;
+}
+.navbar {
+  left: 0;
+  width: 1280px;
+  text-align: center;
+  color: var(--color-whitesmoke);
+}
+.desktoponepage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 6035px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-steelblue-200);
+  font-family: var(--font-montserrat);
+}
